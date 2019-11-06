@@ -73,6 +73,15 @@ footer {
 	font-weight: 500;
 }
 
+button {
+	margin: 30px 0 0 0;
+	padding: 10px;
+	font-family: "Droid Serif", serif;
+	background-color: #0D2C40;
+	color: white;
+	border: none;
+}
+
 .copyright {
 	font-family: "Raleway", sans-serif;
 	float: left;
